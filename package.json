@@ -1,0 +1,22 @@
+{
+  "name": "niagara-test-server",
+  "version": "0.1.9",
+  "description": "HTTP server for testing Niagara web applications",
+  "repository": "https://github.com/tridium/niagara-test-server",
+  "bugs": {
+    "email": "lbyam@tridium.com"
+  },
+  "author": {
+    "name": "Logan Byam",
+    "email": "lbyam@tridium.com"
+  },
+  "main": "lib/server",
+  "dependencies": {
+    "niagara-moduledev": "^0.1.2"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-jshint": "~0.10.0"
+  }
+}
