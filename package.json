@@ -1,6 +1,6 @@
 {
   "name": "niagara-test-server",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "HTTP server for testing Niagara web applications",
   "repository": "https://github.com/tridium/niagara-test-server",
   "bugs": {
